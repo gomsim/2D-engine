@@ -4,7 +4,7 @@ I wanted to create a simple 3D engine, but struggled with the mathematics. Then 
 reveal itself. So I made this little program.
 
 It's a "2D engine" which lets the user draw shapes, which upon letting go of the mouse become artifacts, that can be moved, rotated
-and scaled. The program also allowes zooming and selecting several shapes to interact with, and that's it.
+and scaled. The program also allowes zooming and selecting several shapes to interact with simultaneously, and that's it.
 
 The program was also a small excersise in separating graphics from logic.
 
@@ -20,6 +20,6 @@ Zooming:
 
 ![Zoom](https://github.com/gomsim/2D-engine/blob/master/DemoPictures/Zoom.png)
 
-Collecting shapes:
+Selecting several shapes:
 
 ![Collect](https://github.com/gomsim/2D-engine/blob/master/DemoPictures/Collect.png)
